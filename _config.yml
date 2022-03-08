@@ -73,7 +73,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-NQ09P6YVFX
+    tracking_id          : "G-NQ09P6YVFX"
 
 
 # Site Author
@@ -104,7 +104,7 @@ author:
   orcid            : "http://orcid.org/0000-0002-1003-1770"
   pinterest        :
   soundcloud       :
-  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : #
@@ -228,22 +228,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
   # _advising
   - scope:
       path: ""
@@ -252,7 +252,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
       
 # Sass/SCSS
 sass:
@@ -299,17 +298,17 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
 
 # HTML Compression
