@@ -73,12 +73,12 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "G-NQ09P6YVFX"
+    tracking_id          :  "G-NQ09P6YVFX"
 
 
 # Site Author
 author:
-  name             : "Dr. Liran Ma"
+  name             : "Liran Ma"
   avatar           : "ma-profile.png"
   bio              : "Professor in Computer Science"
   location         : "Fort Worth, TX"
