@@ -15,20 +15,10 @@ Education
 
 Work experience
 ======
-* 2010 - Present: Professor
-  * Texas Christian University
+* 2010 - Present: Professor, Texas Christian University
 
-* 2008 -2010: Assistant Professor
-  * Michigan Technological University
+* 2008 -2010: Assistant Professor, Michigan Technological University
   
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 Publications
 ======
@@ -36,11 +26,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -51,3 +36,19 @@ Teaching
 Service and leadership
 ======
 * IEEE
+
+
+<!-- Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> -->
+
+<!-- Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3 -->
