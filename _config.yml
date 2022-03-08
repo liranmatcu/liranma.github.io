@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Liran Ma"
-  avatar           : "ma_profile.png"
+  avatar           : "ma-profile.png"
   bio              : "Dr. Liran Ma is a Professor in the Department of Computer Science at Texas Christian University."
   location         : "Fort Worth, TX"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=bHajvFMAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
