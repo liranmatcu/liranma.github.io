@@ -17,7 +17,7 @@ Work experience
 ======
 * 2010 - Present: Professor, Texas Christian University
 
-* 2008 -2010: Assistant Professor, Michigan Technological University
+* 2008 - 2010: Assistant Professor, Michigan Technological University
   
 
 Publications
@@ -33,6 +33,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Service and leadership
 ======
 * IEEE
