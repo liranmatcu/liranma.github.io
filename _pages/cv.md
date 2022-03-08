@@ -21,14 +21,14 @@ Work experience
 * 2008 -2010: Assistant Professor
   * Michigan Technological University
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
