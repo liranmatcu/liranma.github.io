@@ -1,7 +1,7 @@
 ---
 title: "CITE"
 collection: advising
-type: "Undergraduate course"
+# type: "Undergraduate course"
 permalink: /advising/cite
 date: 2022-01-15
 ---
