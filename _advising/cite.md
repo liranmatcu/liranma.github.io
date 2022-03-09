@@ -3,7 +3,7 @@ title: "CITE Major"
 collection: advising
 type: "BS"
 permalink: /advising/cite
-date: 2022-01-15
+date: 2022-01-28
 ---
 
 Suggested 4-year course sequence
