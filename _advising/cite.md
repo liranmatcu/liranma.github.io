@@ -1,14 +1,14 @@
 ---
-title: "CITE"
+title: "CITE Major"
 collection: advising
-# type: "Undergraduate course"
+type: "BS"
 permalink: /advising/cite
 date: 2022-01-15
 ---
 
 Suggested 4-year course sequence
 ======
-[Download here](http://liranma.github.io/files/CITE-4-year-2022.pdf)
+[Download here](https://liranma.github.io/files/CITE-4-year-2022.pdf)
 
 TCU Catalog
 ======
