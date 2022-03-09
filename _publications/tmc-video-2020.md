@@ -12,4 +12,4 @@ Users enjoy the convenience of watching videos on smart devices. However, video 
 
 [Download paper here](https://ieeexplore.ieee.org/document/9298868)
 
-Recommended citation: Jialing He, Zijian Zhang, Jian Mao, Liran Ma, Bakh Khoussainov, Rui Jin, and Liehuang Zhu. (2020). "Video Aficionado: We Know What You Are Watching" <i>IEEE Transactions on Mobile Computing</i>. 
+<!-- Recommended citation: Jialing He, Zijian Zhang, Jian Mao, Liran Ma, Bakh Khoussainov, Rui Jin, and Liehuang Zhu. (2020). "Video Aficionado: We Know What You Are Watching" <i>IEEE Transactions on Mobile Computing</i>.  -->

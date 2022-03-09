@@ -12,4 +12,4 @@ Bitcoin first proposed the Nakamoto consensus that applies proof-of-work into bl
 
 [Download paper here](https://ieeexplore.ieee.org/document/9548672)
 
-Recommended citation: Hao Yin, Zijian Zhang, Jialing He, Liran Ma, Liehuang Zhu, Meng Li, and Bakh Khoussainov. (2021). "Proof of Continuous Work for Reliable Data Storage over Permissionless Blockchain&quot." <i>IEEE Internet of Things Journal</i>.
+<!-- Recommended citation: Hao Yin, Zijian Zhang, Jialing He, Liran Ma, Liehuang Zhu, Meng Li, and Bakh Khoussainov. (2021). "Proof of Continuous Work for Reliable Data Storage over Permissionless Blockchain&quot." <i>IEEE Internet of Things Journal</i>. -->
