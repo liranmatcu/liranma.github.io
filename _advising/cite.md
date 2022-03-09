@@ -6,13 +6,11 @@ permalink: /advising/cite
 date: 2022-01-15
 ---
 
-Heading 1
+Suggested 4-year course sequence
 ======
-Course Overview
+[Download here](http://liranma.github.io/files/CITE-4-year-2022.pdf)
 
-Heading 2
+TCU Catalog
 ======
-This course covers fundamental principles, concepts, and common practices of computer and network security. Key topics include cryptographic algorithms, security protocols, threats/attacks, and countermeasures.
+[View here](http://tcu.smartcatalogiq.com/current/Undergraduate-Catalog/Copy-of-College-of-Science-and-Engineering/Computer-Information-Technology/Computer-Information-Technology-Major)
 
-Heading 3
-======
