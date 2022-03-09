@@ -83,7 +83,7 @@ author:
   bio              : "Professor in Computer Science"
   location         : "Fort Worth, TX"
   employer         :
-#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=bHajvFMAAAAJ"
   email            : "liranma@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
