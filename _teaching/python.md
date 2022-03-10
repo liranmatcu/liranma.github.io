@@ -2,7 +2,7 @@
 title: "Introduction to Python for Data Analytics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/pyton
+permalink: /teaching/python
 venue: "All majors"
 date: 2021-08-08
 location: "Fort Worth, TX"
