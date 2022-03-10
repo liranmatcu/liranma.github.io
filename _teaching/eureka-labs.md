@@ -1,11 +1,11 @@
 ---
 title: "Eureka Labs"
 collection: teaching
-type: "Undergraduate courses"
+type: "Hands-on cybersecurity labs "
 permalink: /teaching/eureka-labs
-# venue: "Computer Science"
-date: 2022-03-10
-# location: "Fort Worth, TX"
+venue: "Suitable for students, practitioners, and educators"
+date: 2020-01-01
+location: "Online"
 ---
 
 Introduction
