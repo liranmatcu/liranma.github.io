@@ -1,7 +1,7 @@
 ---
 title: "Eureka Labs"
 collection: teaching
-type: "Hands-on cybersecurity labs "
+type: "Hands-on cybersecurity labs"
 permalink: /teaching/eureka-labs
 venue: "Suitable for students, practitioners, and educators"
 date: 2020-01-01
