@@ -8,7 +8,7 @@ date: 2022-01-01
 
 Suggested 4-year course sequence
 ======
-[Download here](http://csfaculty.tcu.edu/ma/DASC/DASC-Four-Year-Plan.pdf)
+[Download here](https://liranma.github.io/files/DS-4-year-2022.pdf)
 
 Prerequisites Graph
 ======
