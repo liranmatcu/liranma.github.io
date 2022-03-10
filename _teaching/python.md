@@ -14,4 +14,4 @@ The goal of this course is to give the students a working knowledge of how to us
 
 Syllabus
 ======
-[View here] (http://csfaculty.tcu.edu/ma/cosc10603/Syllabus_Python.pdf)
+Course Syllabus can be found <a href="http://csfaculty.tcu.edu/ma/cosc10603/Syllabus_Python.pdf">here</a> as a reference. 
