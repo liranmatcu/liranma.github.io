@@ -6,11 +6,10 @@ permalink: /advising/cite
 date: 2022-01-28
 ---
 
-Suggested 4-year course sequence
+Suggested 4-year course sequence (https://liranma.github.io/files/CITE-4-year-2022.pdf)
 ======
-[Download here](https://liranma.github.io/files/CITE-4-year-2022.pdf)
 
-TCU Catalog
+
+TCU Catalog (http://tcu.smartcatalogiq.com/current/Undergraduate-Catalog/Copy-of-College-of-Science-and-Engineering/Computer-Information-Technology/Computer-Information-Technology-Major)
 ======
-[View here](http://tcu.smartcatalogiq.com/current/Undergraduate-Catalog/Copy-of-College-of-Science-and-Engineering/Computer-Information-Technology/Computer-Information-Technology-Major)
 
