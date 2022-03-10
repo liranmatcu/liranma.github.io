@@ -3,8 +3,8 @@ title: "COSC 40053 Computer and Network Security"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/computer-network-security
-venue: "Computer Science"
-date: 2022-01-15
+venue: "CS and IT"
+date: 2022-01-08
 location: "Fort Worth, TX"
 ---
 
