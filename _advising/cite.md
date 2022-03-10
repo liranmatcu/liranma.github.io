@@ -1,5 +1,5 @@
 ---
-title: "CITE Major"
+title: "Computer Information Technology (CITE) Major"
 collection: advising
 type: "BS"
 permalink: /advising/cite
