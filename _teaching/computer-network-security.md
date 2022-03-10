@@ -1,5 +1,5 @@
 ---
-title: "COSC 40053 Computer and Network Security"
+title: "Computer and Network Security"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/computer-network-security
