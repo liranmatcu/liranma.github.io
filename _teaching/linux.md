@@ -1,7 +1,8 @@
 ---
 title: "Unix/Linux System Administration"
 collection: teaching
-type: " CS and IT"
+type: "Undergraduate course"
+venue: "CS and IT"
 permalink: /teaching/linux
 date: 2022-08-01
 location: "Fort Worth, TX"
